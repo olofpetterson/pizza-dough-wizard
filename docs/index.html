@@ -15,16 +15,19 @@
         h1 { 
             color: #3875d7;
             margin-bottom: 30px;
+            font-size: 2.5em;
         }
         h2 {
             color: #2c5282;
             margin-top: 40px;
             border-bottom: 2px solid #e2e8f0;
             padding-bottom: 10px;
+            font-size: 1.8em;
         }
         h3 {
             color: #4a5568;
             margin-top: 25px;
+            font-size: 1.4em;
         }
         .contact {
             margin-top: 40px;
@@ -35,12 +38,29 @@
         a {
             color: #3182ce;
             text-decoration: none;
+            font-weight: 500;
         }
         a:hover {
             text-decoration: underline;
         }
         .faq-item {
             margin-bottom: 20px;
+        }
+        .feature-list {
+            margin: 20px 0;
+            padding: 0;
+            list-style: none;
+        }
+        .feature-list li {
+            margin-bottom: 10px;
+            padding-left: 20px;
+            position: relative;
+        }
+        .feature-list li:before {
+            content: "✓";
+            color: #48bb78;
+            position: absolute;
+            left: 0;
         }
         @media (prefers-color-scheme: dark) {
             body {
@@ -67,34 +87,34 @@
         <h2>Frequently Asked Questions</h2>
         
         <h3>How do I use the calculator?</h3>
-        <p>Simply enter the number of pizzas you want to make, the desired weight per pizza, and the hydration percentage. The app will calculate all the ingredients for you.</p>
+        <p>Simply enter the number of pizzas you want to make, the desired weight per pizza, and the hydration percentage. The app will calculate all the ingredients for you with professional precision.</p>
         
         <h3>What's the difference between the dough types?</h3>
         <p>
-            <strong>Regular:</strong> Standard pizza dough with direct fermentation. Perfect for beginners and quick pizza making.<br>
-            <strong>Poolish:</strong> A wet pre-ferment that adds complex flavor and improved texture. Requires 12-16 hours of fermentation.<br>
-            <strong>Biga:</strong> A firm pre-ferment that adds structure and depth of flavor. Requires 12-24 hours of fermentation.
+            <strong>Regular:</strong> Standard pizza dough with direct fermentation. Perfect for beginners and quick pizza making. Ready in 1-2 hours.<br>
+            <strong>Poolish:</strong> A wet pre-ferment that adds complex flavor and improved texture. Requires 12-16 hours of fermentation for optimal results.<br>
+            <strong>Biga:</strong> A firm pre-ferment that adds structure and depth of flavor. Requires 12-24 hours of fermentation for professional-quality results.
         </p>
         
         <h3>What hydration percentage should I use?</h3>
         <p>
-            <strong>Regular dough:</strong> 60-65% is common for a balanced texture<br>
-            <strong>Poolish:</strong> 100% hydration (equal parts water and flour)<br>
-            <strong>Biga:</strong> 50-60% hydration for a firm consistency
+            <strong>Regular dough:</strong> 60-65% is common for a balanced texture and easy handling<br>
+            <strong>Poolish:</strong> 100% hydration (equal parts water and flour) for optimal fermentation<br>
+            <strong>Biga:</strong> 50-60% hydration for a firm consistency and controlled fermentation
         </p>
 
         <h3>How accurate are the calculations?</h3>
-        <p>The app uses standard pizza dough ratios and formulas used by professional pizzaiolos. The calculations are precise and have been tested extensively.</p>
+        <p>The app uses standard pizza dough ratios and formulas used by professional pizzaiolos. The calculations are precise and have been tested extensively to ensure perfect results every time.</p>
+
+        <h3>Can I use the app offline?</h3>
+        <p>Yes! Pizza Dough Wizard works completely offline. All calculations are performed on your device, so you can use it anywhere, even in your kitchen.</p>
     </div>
     
     <div class="contact">
         <h2>Contact Support</h2>
-        <p>If you need further assistance or have any questions, please email us at: <a href="mailto:support@pizzadoughwizard.com">support@pizzadoughwizard.com</a></p>
+        <p>Need help or have questions? Our support team is here to assist you!</p>
+        <p>Email us at: <a href="mailto:olof.h.petterson@gmail.com">olof.h.petterson@gmail.com</a></p>
         <p>We typically respond within 24-48 hours.</p>
     </div>
-
-    <div style="margin-top: 40px; font-size: 0.9em; color: #718096;">
-        <p>© 2024 Pizza Dough Wizard. All rights reserved.</p>
-    </div>
 </body>
-</html>
+</html> 
