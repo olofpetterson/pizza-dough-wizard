@@ -36,7 +36,3 @@ Pizza Dough Wizard is more than just a calculator - it's your personal pizza men
 ## 📲 Get Started
 
 Download Pizza Dough Wizard from the App Store and start creating perfect pizza dough today!
-
----
-
-© 2024 Pizza Dough Wizard. All rights reserved.
