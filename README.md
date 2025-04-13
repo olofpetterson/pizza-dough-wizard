@@ -1,28 +1,42 @@
-# Pizza Dough Wizard Support
+# 🍕 Pizza Dough Wizard
 
-This repository contains the support page for the Pizza Dough Wizard iOS app.
+The ultimate tool for perfect pizza dough every time! Whether you're a home cook or a professional pizzaiolo, Pizza Dough Wizard helps you create restaurant-quality pizza with precise calculations and expert guidance.
 
-## Support Page
+## ✨ Features
 
-The support page is available at: [https://olofpetterson.github.io/pizza-dough-wizard/](https://olofpetterson.github.io/pizza-dough-wizard/)
+- **Multiple Dough Types**: Choose from Regular, Poolish, or Biga dough recipes
+- **Precise Calculations**: Professional-grade formulas used by top pizzerias
+- **Customizable Recipes**: Adjust number of pizzas, weight, and hydration
+- **Dark Mode**: Beautiful interface that adapts to your preferences
+- **Offline Use**: All calculations happen on your device
+- **Expert Guidance**: Learn the art of perfect pizza making
 
-## Contact
+## 📱 Support
 
-For support inquiries, please email: support@pizzadoughwizard.com
+Visit our support page: [https://olofpetterson.github.io/pizza-dough-wizard/](https://olofpetterson.github.io/pizza-dough-wizard/)
 
-## About the App
+Need help? Contact us at: [olof.h.petterson@gmail.com](mailto:olof.h.petterson@gmail.com)
 
-Pizza Dough Wizard is a professional pizza dough calculator that helps you create perfect pizza dough every time. The app supports three types of dough:
+## 🍕 About the App
 
-- Regular pizza dough
-- Poolish (wet pre-ferment)
-- Biga (firm pre-ferment)
+Pizza Dough Wizard is more than just a calculator - it's your personal pizza mentor. Whether you're making a quick weeknight pizza or experimenting with advanced fermentation techniques, our app guides you through the process with:
 
-## Features
+- **Regular Dough**: Perfect for beginners and quick pizza making
+- **Poolish**: Advanced technique for enhanced flavor and texture
+- **Biga**: Professional-grade dough with superior structure
 
-- Calculate ingredients for any number of pizzas
-- Support for different dough types
-- Professional-grade calculations
-- Easy-to-use interface
-- Dark mode support
-- Available on the App Store
+## ⭐ Why Choose Pizza Dough Wizard?
+
+- **Professional Results**: Use the same calculations as top pizzerias
+- **Easy to Use**: Simple interface with powerful features
+- **Learn as You Go**: Understand the science behind perfect pizza
+- **Consistent Results**: Never guess your measurements again
+- **Perfect for All**: From beginners to professional chefs
+
+## 📲 Get Started
+
+Download Pizza Dough Wizard from the App Store and start creating perfect pizza dough today!
+
+---
+
+© 2024 Pizza Dough Wizard. All rights reserved.
